@@ -2,6 +2,14 @@
 # Amazon Books Data Pipeline 
 -----------
 
+## About the Project:
+The following techstacks were used in this project:
+
+- **Apache Airflow**: For workflow orchestration and scheduling
+- **Python**: For data manipulation and scripting within ETL processes
+- **PostgreSQL**: For data storage and querying
+- **Docker**: For environment setup and containerized deployment
+- **SQL**: For data transformation and storage management
 
 ## Create a virtual environment and activate it (optional)
 
