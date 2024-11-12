@@ -10,6 +10,8 @@ The following techstacks were used in this project:
 - **PostgreSQL**: For data storage and querying
 - **Docker**: For environment setup and containerized deployment
 - **SQL**: For data transformation and storage management
+## Screenshots
+![Screenshot 2024-11-13 004449](https://github.com/user-attachments/assets/8da5aa2f-7c7f-4193-aaef-e04e24649444)
 
 ## Create a virtual environment and activate it (optional)
 
